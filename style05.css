@@ -1,0 +1,150 @@
+.top{
+    background-color: #4018b2;
+}
+.nav{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 15px;
+}
+a{
+    margin-top: -70px;
+    margin-right: 21px;
+}
+.nav:hover{
+    color: rgb(204, 172, 244);
+    font-size: 18px;
+}
+.logo{
+    margin-left: 10px;
+    margin-top: 0px;
+    height: 60px;
+}
+.navbar{
+    margin-top: 13px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: flex-end;
+}
+.foothead{
+    /* width: 150%; */
+    margin-top: 50px;
+    font-size: 50px;
+    padding-left: 400px;
+}
+.mail{
+    /* margin-top: 10px; */
+    margin-left: 380px;
+    margin-bottom: -29px;
+    /* width: 30px; */
+}
+.call{
+        margin-left: 790px;
+        /* margin-top: 0px; */
+}
+.id{
+    font-size: large;
+    margin-left: 413px;
+    margin-bottom: -20px;
+    
+}
+.mobno{
+    font-size: large;
+    margin-left: 830px;
+    margin-top: -30px;
+}
+.foot{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4018b2;
+    height: 200px;
+}
+.aman{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.img{
+    margin-top: 10px;
+    margin-left: 200px;
+    border: 4px solid black;
+    width: 350px;
+    border-radius: 30px;
+    background-color: antiquewhite;
+}
+.boat{
+    color: rgb(103, 103, 103);
+}
+.aman1{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.ashneer{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.img01{
+    margin-top: -1100px;
+    margin-left: 800px;
+    border: 4px solid black;
+    width: 350px;
+    border-radius: 30px;
+    background-color: antiquewhite;
+}
+.aman2{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.ship{
+    color: rgb(103, 103, 103);
+}
+.namita{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.img02{
+    margin-top: 10px;
+    margin-left: 800px;
+    border: 4px solid black;
+    width: 350px;
+    border-radius: 30px;
+    background-color: antiquewhite;
+}
+.aman3{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.ship{
+    color: rgb(103, 103, 103);
+}
+.vineeta{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.img03{
+    margin-top: 10px;
+    margin-left: 800px;
+    border: 4px solid black;
+    width: 350px;
+    border-radius: 30px;
+    background-color: antiquewhite;
+}
+.aman4{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.ship1{
+    color: rgb(103, 103, 103);
+}

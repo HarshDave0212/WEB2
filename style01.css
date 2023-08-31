@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #4018b2;
+    
+}
+.nav{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 15px;
+}
+a{
+    margin-top: -70px;
+    margin-right: 21px;
+}
+.nav:hover{
+    color: rgb(204, 172, 244);
+    font-size: 18px;
+}
+.logo{
+    margin-left: 10px;
+    margin-top: 0px;
+    height: 60px;
+}
+.navbar{
+    margin-top: 13px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: flex-end;
+}
+.content{
+    color: white;
+    font-size: 50px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 180px;
+    margin-left: 50px;
+}
+.para{
+    color: white;
+    margin-left: 50px;
+    width: 650px;
+    font-size: 30px;
+    margin-top: 100px;
+}
+#banner{
+    margin-left: 1120px;
+    margin-top: -500px;
+    height: 550px;
+    /* width: 350px; */
+    margin-right: 20px;
+}
+.line{
+    width: 220%;
+}
+.foothead{
+    width: 150%;
+    margin-top: 50px;
+    font-size: 50px;
+    padding-left: 400px;
+}
+.mail{
+    /* margin-top: 10px; */
+    margin-left: 380px;
+    margin-bottom: -29px;
+    /* width: 30px; */
+}
+.call{
+        margin-left: 790px;
+        /* margin-top: 0px; */
+}
+.id{
+    font-size: large;
+    margin-left: 413px;
+    margin-bottom: -20px;
+    
+}
+.mobno{
+    font-size: large;
+    margin-left: 830px;
+    margin-top: -30px;
+}
+
